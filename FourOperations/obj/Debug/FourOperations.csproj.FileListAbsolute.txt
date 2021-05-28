@@ -1,0 +1,7 @@
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\bin\Debug\FourOperations.exe.config
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\bin\Debug\FourOperations.exe
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\bin\Debug\FourOperations.pdb
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\obj\Debug\FourOperations.csprojAssemblyReference.cache
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\obj\Debug\FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\obj\Debug\FourOperations.exe
+C:\Users\jyyao\Desktop\Telepathy Assignment\FourOperations\obj\Debug\FourOperations.pdb
