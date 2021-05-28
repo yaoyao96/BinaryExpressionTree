@@ -3,7 +3,7 @@
 ## How to compile
 - Install Visual Studio and .Net Framework > 4.8. 
 - Open sln file under directory "FourOperations" in Visual Studio. 
-- Click "Run" on the top panel to compile and run the project.
+- Click "Run"/"Start" on the top panel to compile and run the project.
  
 
 ## Run Unit Test
